@@ -148,7 +148,7 @@ window.SITE = {
   },
   "settings": {
     "web3formsKey": "e9cd1ba5-7f89-4297-9fe7-e73bf45190ff",
-    "supabaseUrl": "",
-    "supabaseKey": ""
+    "supabaseUrl": "https://sfjyqvcgmircohmzpjck.supabase.co",
+    "supabaseKey": "sb_publishable_JWxoGsPOyozm3TMEi1dg2A_e579TZmE"
   }
 };
